@@ -5,6 +5,8 @@ description = "Implement the Iterative Voting Consensus Algorithms of the articl
 authors = ["AuriantEmeric <auriantemeric@hotmail.fr>"]
 readme = "README.md"
 packages = [{include = "src"}]
+repository = "https://github.com/AuriantEmeric/iterative-voting-consensus"
+homepage = "https://github.com/AuriantEmeric/iterative-voting-consensus"
 
 [tool.poetry.dependencies]
 python = "^3.11"
