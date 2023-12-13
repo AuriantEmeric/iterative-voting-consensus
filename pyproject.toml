@@ -1,10 +1,10 @@
 [tool.poetry]
 name = "iterative-voting-consensus"
-version = "0.1.0"
+version = "0.1.2"
 description = "Implement the Iterative Voting Consensus Algorithms of the article Consensus Clustering, N. Nguyen et al."
 authors = ["AuriantEmeric <auriantemeric@hotmail.fr>"]
 readme = "README.md"
-packages = [{include = "src"}]
+packages = [{include = "ivc"}]
 repository = "https://github.com/AuriantEmeric/iterative-voting-consensus"
 homepage = "https://github.com/AuriantEmeric/iterative-voting-consensus"
 

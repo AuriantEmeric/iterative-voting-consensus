@@ -6,3 +6,5 @@ Package available on Pypi :
 ```
 pip install iterative-voting-consensus
 ```
+
+An example can be found in example.py

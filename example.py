@@ -1,8 +1,10 @@
 """Example of utilization to find clusters a correpted list of clusterings."""
 import numpy as np
 
-from src.ipvc import iterative_probabilistic_voting_consensus
-from src.ivc import iterative_voting_consensus
+from ivc.algorithms import (
+    iterative_probabilistic_voting_consensus,
+    iterative_voting_consensus,
+)
 
 
 def check_cluster(groundtruth: np.ndarray, found: np.ndarray) -> float:

@@ -1,3 +1,5 @@
 /.conda
 /.pytest_cache
 /dist
+/ivc/__pycache__
+/test/__pycache__/
